@@ -7,7 +7,8 @@
 
 ## 2.基本的Git命令
 
-![git命令.png](assets\git命令.png)
+<img src="assets\git命令.png" alt="git命令.png" />
+
 
 ```bash
 # 基础操作:
@@ -97,7 +98,7 @@
 
 ## 4.大事件项目文档
 
-![01-大事件.png](assets\01-大事件.png)
+<img src="assets\01-大事件.png" alt="01-大事件.png" />
 
 ## 5.人力资源项目文档
 
