@@ -7,7 +7,7 @@
 
 ## 2.基本的Git命令
 
-<img src="assets\git命令.png" alt="git命令" />
+<img src="https://github.com/3c-dc/documentation/blob/main/assets/git%E5%91%BD%E4%BB%A4.png" alt="git命令" />
 
 
 ```bash
