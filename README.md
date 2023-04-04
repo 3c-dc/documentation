@@ -7,7 +7,7 @@
 
 ## 2.基本的Git命令
 
-<img src="assets\git命令.png" alt="git命令.png" />
+<img src="assets\git命令.png" alt="git命令" />
 
 
 ```bash
@@ -98,12 +98,12 @@
 
 ## 4.大事件项目文档
 
-<img src="assets\01-大事件.png" alt="01-大事件.png" />
+<img src="assets\01-大事件.png" alt="01-大事件" />
 
 ## 5.人力资源项目文档
 
-<img src="assets\02-人力资源.png" alt="02-人力资源.png" style="zoom:60%;" />
+<img src="assets\02-人力资源.png" alt="02-人力资源" style="zoom:60%;" />
 
 ## 6.头条项目文档
 
-![03-头条.png](assets\03-头条.png)
+![03-头条](assets\03-头条.png)
