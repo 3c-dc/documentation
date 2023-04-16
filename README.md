@@ -1,13 +1,23 @@
 # documentation
 项目文档仓库
 
+
+
 ## 1.初始化项目文档仓库
+
 
 添加READEME文档
 
+
+
 ## 2.基本的Git命令
 
+
+```html
+#图片错误
 <img src="https://github.com/3c-dc/documentation/blob/main/assets/git%E5%91%BD%E4%BB%A4.png" alt="git命令" />
+```
+
 
 
 ```bash
@@ -98,12 +108,26 @@
 
 ## 4.大事件项目文档
 
+```html
+#图片错误
 <img src="assets\01-大事件.png" alt="01-大事件" />
+```
+
+
 
 ## 5.人力资源项目文档
 
+```html
+#图片错误
 <img src="assets\02-人力资源.png" alt="02-人力资源" style="zoom:60%;" />
+```
+
+
 
 ## 6.头条项目文档
 
+
+```html
+#图片错误
 ![03头条]("assets\03-头条.png")
+```
